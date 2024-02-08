@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Este projeto foi feito junto ao envento de programação da escola RocketSeat. <br/>
+Este projeto foi feito junto ao envento NLW de programação da escola RocketSeat. <br/>
 </p>
 
 <p align="center">
