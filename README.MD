@@ -1,11 +1,6 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-  Este projeto foi feito durante o evento NLW da RocketSeat. <br/>
-  This project was developed during the NLW event by RocketSeat.
-</p>
-
-<p align="center">
   <a href="#-tecnologias">Tecnologias / Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto / Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -41,13 +36,6 @@ O Habits é um app para ajudar a rastrear os hábitos.
 Habits is an app to help track daily habits.
 
 - [Visite o projeto online / Visit the online project](https://katleenalves.github.io/Habits-Tracker-Application/)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESTE LINK](https://www.figma.com/community/file/1195327109778210238).  
-You can view the project layout through [THIS LINK](https://www.figma.com/community/file/1195327109778210238).  
-É necessário ter conta no [Figma](https://figma.com) para acessá-lo.  
-A [Figma](https://figma.com) account is required to access it.
 
 ## :memo: Licença / License
 
