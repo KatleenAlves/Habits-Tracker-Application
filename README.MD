@@ -43,5 +43,3 @@ Esse projeto está sob a licença MIT.
 This project is under the MIT license.
 
 ---
-
-Assim, seu projeto ficará acessível tanto para falantes de português quanto para falantes de inglês, o que é ideal para o mercado de trabalho na Suíça e internacionalmente.
